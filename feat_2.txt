@@ -1,1 +1,2 @@
 content feature2
+bug1 is fixed
